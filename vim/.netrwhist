@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/toonverbeek/dev/wercker/docs/content/api/endpoints'
+let g:netrw_dirhist_2='/Users/toonverbeek/dev/tmp'
+let g:netrw_dirhist_3='/Users/toonverbeek/dev/oinker/config'
+let g:netrw_dirhist_4='/Users/toonverbeek/go/src/github.com/wercker/business-analytics'
