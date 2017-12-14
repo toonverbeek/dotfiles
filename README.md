@@ -1,5 +1,9 @@
 # dotfiles
 
+## Useful commands
+#### Install Brew
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` 
+
 ## Useful links
 
 * Setting up theme: https://gist.github.com/kevin-smets/8568070
