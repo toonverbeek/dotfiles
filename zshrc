@@ -86,24 +86,5 @@ source $ZSH/oh-my-zsh.sh
 export NVM_DIR=~/.nvm
 source $(brew --prefix nvm)/nvm.sh
 
-# rbenv
-eval "$(rbenv init -)"
-
-
-# Boot2Docker
-# export DOCKER_TLS_VERIFY="1"
-#export DOCKER_HOST="tcp://192.168.99.100:2376"
-#export DOCKER_CERT_PATH="/Users/toonverbeek/.docker/machine/machines/boot2docker"
-# export DOCKER_MACHINE_NAME="boot2docker"
-# Run this command to configure your shell:
-# eval "$(docker-machine env boot2docker)"
-
 # Vim 
 alias vim='/Applications/MacVim.app/Contents/MacOS/Vim'
-
-# Gopath
-export GOPATH=~/go
-export GO15VENDOREXPERIMENT=1
-
-# direnv
-eval "$(direnv hook zsh)"
