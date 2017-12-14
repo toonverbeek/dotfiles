@@ -4,6 +4,9 @@
 #### Install Brew
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` 
 
+#### Install ohmyzsh
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+
 ## Useful links
 
 * Setting up theme: https://gist.github.com/kevin-smets/8568070
