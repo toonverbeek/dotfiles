@@ -14,3 +14,4 @@
 * ohmyzsh themes: https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 * fonts: https://github.com/powerline/fonts/tree/master/Meslo
 * Remove animation sidebar: http://osxdaily.com/2012/03/28/change-dock-animation-speed-mac-os-x/
+* Better touchbar: http://vas3k.com/blog/touchbar/?utm_source=offscreenmag_com&utm_medium=email&utm_campaign=newsletter
