@@ -17,9 +17,10 @@
 * Tunnelblick & NordVPN (for VPN)
 * Visual Studio Code
   * React Code Snippets
-  * Emmet
+  * Emmet (comes installed by default)
   * ES6 code snippets
   * ESLint
+  * Prettier
 
 
 ## Useful links
