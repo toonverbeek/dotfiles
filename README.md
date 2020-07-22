@@ -19,7 +19,6 @@
   * React Code Snippets
   * Emmet (comes installed by default)
   * ES6 code snippets
-  * ESLint
   * Prettier
 
 
