@@ -11,17 +11,27 @@
 1. `git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k`
 2. Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`.
 
-## Useful apps
+## Useful apps (Mac)
 * Annotate (for screenshots)
 * Spectacle (for screen management)
 * Tunnelblick & NordVPN (for VPN)
-* Visual Studio Code
-  * React Code Snippets
-  * ES6 code snippets
-  * Prettier
-  * Cobolt2 Theme by Wes Bos
-  * Eslint config by Wes Bos
-  * Auto Rename Tag
+
+## Useful apps (Windows)
+* Power Toys
+* Windows Terminal
+
+
+## Visual Studio Code
+* React Code Snippets
+* ES6 code snippets
+* Prettier
+* Cobolt2 Theme by Wes Bos
+* Eslint config by Wes Bos
+* Auto Rename Tag
+* Tailwind CSS Intellisense
+* Headwind
+* Tailwind Docs
+
 
 
 ## Useful links
