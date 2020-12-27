@@ -17,9 +17,11 @@
 * Tunnelblick & NordVPN (for VPN)
 * Visual Studio Code
   * React Code Snippets
-  * Emmet (comes installed by default)
   * ES6 code snippets
   * Prettier
+  * Cobolt2 Theme by Wes Bos
+  * Eslint config by Wes Bos
+  * Auto Rename Tag
 
 
 ## Useful links
