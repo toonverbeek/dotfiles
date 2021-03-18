@@ -20,6 +20,8 @@
 * Power Toys
 * Windows Terminal
 
+## Visuals
+* Wallapers from the talented https://hector.me/
 
 ## Visual Studio Code
 * React Code Snippets
