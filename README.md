@@ -15,6 +15,11 @@
 ### Generate new SSH key
 https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
+### Install NVM
+1. `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash`
+2. Export variables in `.zshrc` if they weren't added automatically and run `source ~/.zshrc`
+3. `nvm install node`
+
 ## Useful apps (Mac)
 * Annotate (for screenshots)
 * Spectacle (for screen management)
