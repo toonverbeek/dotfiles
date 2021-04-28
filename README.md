@@ -8,10 +8,8 @@
 1. `sudo apt-get install zsh`
 2. `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
-### Install [Powerlevel10k ](https://github.com/romkatv/powerlevel10k)
+### Install Oh-my-posh (= powerline10k with themes)
 Read more here: https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup#wsl-ubuntu-prerequisites
-1. `git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k`
-2. Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`.
 
 ### Generate new SSH key
 https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
