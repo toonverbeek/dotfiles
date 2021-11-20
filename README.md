@@ -34,7 +34,7 @@ https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-
 ## Visual Studio Code
 * React Code Snippets
 * ES6 code snippets
-* Prettier
+* Eslitn with Prettier (https://khalilstemmler.com/blogs/tooling/prettier/)
 * Cobolt2 Theme by Wes Bos
 * Eslint config by Wes Bos
 * Auto Rename Tag
