@@ -1,0 +1,87 @@
+{
+    "[prisma]": {
+      "editor.defaultFormatter": "Prisma.prisma"
+    },
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "[svelte]": {
+      "editor.defaultFormatter": "svelte.svelte-vscode"
+    },
+    "editor.accessibilitySupport": "off",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit",
+      "source.fixAll.stylelint": "explicit"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.fontWeight": "200",
+    "editor.formatOnSave": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.linkedEditing": true,
+    "editor.quickSuggestions": {
+      "strings": "on"
+    },
+    "editor.tabSize": 2,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "typescript": "typescriptreact"
+    },
+    "eslint.format.enable": true,
+    "files.exclude": {
+      "**/.git": false
+    },
+    "jest.shell": {
+      "args": ["-l", "-i"],
+      "env": "",
+      "path": "/bin/zsh"
+    },
+    "jupyter.askForKernelRestart": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "search.exclude": {
+      "**/node_modules": false
+    },
+    "stylelint.validate": ["css", "scss"],
+    "svelte.enable-ts-plugin": true,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.sendKeybindingsToShell": false,
+    "terminal.integrated.macOptionClickForcesSelection": true,
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.editorAssociations": {
+      "*.docx": "docxreader.docxEditor"
+    },
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "prisma.showPrismaDataPlatformNotification": false,
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "cursor.cpp.disabledLanguages": ["scminput"],
+    "gitlens.launchpad.indicator.enabled": false,
+    "[rust]": {
+      "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "cursor.cpp.enablePartialAccepts": true,
+    "workbench.activityBar.location": "top",
+    "files.associations": {
+      "*.css": "tailwindcss",
+      ".env*": "dotenv"
+    },
+    "editor.tokenColorCustomizations": {
+      "textMateRules": []
+    },
+    "dotenv.enableAutocloaking": false,
+    "workbench.panel.showLabels": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.statusBar.enabled": false,
+    "gitlens.hovers.avatars": false,
+    "gitlens.views.commits.showBranchComparison": false,
+    "gitlens.views.commits.pullRequests.enabled": false,
+    "workbench.productIconTheme": "phosphor",
+    "editor.fontFamily": "\"MonaspiceKr Nerd Font\", Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": "'calt'",
+    "editor.fontVariations": false,
+    "workbench.colorTheme": "Cobalt Next"
+  }
