@@ -4,6 +4,7 @@ brew "pnpm"
 brew "tmux"
 brew "zsh"
 
+cask "chrome"
 cask "1password"
 cask "cursor"
 cask "font-monaspace-nerd-font"
