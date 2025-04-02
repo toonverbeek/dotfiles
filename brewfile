@@ -3,6 +3,7 @@ brew "gnupg"
 brew "pnpm"
 brew "tmux"
 brew "zsh"
+brew "dotenvx/brew/dotenvx"
 
 cask "chrome"
 cask "1password"
